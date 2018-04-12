@@ -1,0 +1,3 @@
+<!--pages/wxPay/wxPay.wxml-->
+<text>pages/wxPay/wxPay.wxml</text>
+<button bindtap='confirmPay'>小程序支付</button>

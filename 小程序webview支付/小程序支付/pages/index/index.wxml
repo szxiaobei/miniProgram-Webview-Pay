@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+
+    <button bindtap='toWebview'>进入webview</button>
+ 
+</view>
